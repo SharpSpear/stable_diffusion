@@ -1,1 +1,1 @@
-py webui.py --skip-torch-cuda-test --precision full --no-half --medvram --skip-version-check
+py webui.py
